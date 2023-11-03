@@ -54,5 +54,6 @@ In dataaccess i added the references.
 Inside area i added area with name customer.and make change in routes in startup.cs.
 
 i moved hpmecontroller.cs to area>customer and folder and delete data and models.
+afterthat i edir homecontroler.cs and define controler in the customer area.
 
 
