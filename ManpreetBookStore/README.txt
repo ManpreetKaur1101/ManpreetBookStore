@@ -22,3 +22,7 @@ under wwwroot/css i change the name of the previous file and add the downloaded 
 moreover,i made changes in layout.cshtml as required according to the tutorail.
 
 Inside my loginPartial.cshtml i made changes and run my app in the browser.wow..... it's looking nice as a ux experience.
+
+30 OCTOBER 2023
+i updated my layout.cshtml by adding css and javascript links in it.Moreover,i added dropdown menu in that and its working.......
+afterthat , i changed the name of my dropdown menu to content management.
