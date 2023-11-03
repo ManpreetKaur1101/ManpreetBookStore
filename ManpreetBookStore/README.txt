@@ -66,3 +66,4 @@ firstly i build the solution to check the errors . afterthat i review appsetting
 
 I use nugetpackage manager consoole to add migrations.then it shows error then i change the correct default project dataaccess and run it again..
 afterthat i run it again and its working.
+I ADDED add-migration AddDefaultIdentityMigrationand set defaultproject ManpreetBooks.DataAccess and its running.
