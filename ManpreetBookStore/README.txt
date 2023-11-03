@@ -57,5 +57,7 @@ i moved hpmecontroller.cs to area>customer and folder and delete data and models
 afterthat i edit homecontroler.cs and define controler in the customer area.
 i moveviews home and modify the homecontroller.
 
+i copied viewimport and viewstart to customer area.and also modify viewstart.cshtml.
+
 
 
