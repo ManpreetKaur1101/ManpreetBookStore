@@ -38,5 +38,7 @@ I downlod the Identity.EntityFramework core.
 I updated the namespace in ManpreetBooks.DataAccess and delete the all the default class1 file in all the project.
 afterthat i moved model folder in ManpreetBooks.Model and delete the original one as mentioned.
 
+I added project references of .DataAccess and Models and then rename the model folder to ViewModels and changed its namespace.
+
 
 
