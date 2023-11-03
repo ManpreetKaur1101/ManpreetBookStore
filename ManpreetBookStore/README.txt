@@ -30,3 +30,6 @@ afterthat , i changed the name of my dropdown menu to content management.
 
 Moreover,I created my ManpreetBooks.DataAccess class libarary.
 also i created other two projects libraries that are ManpreetBooks.Models and ManpreetBooks.Utility.
+I droped data folder in the ManpreetBooks.DatabaseAccess and deleted the original folder.
+
+
