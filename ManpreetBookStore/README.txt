@@ -61,4 +61,7 @@ i copied viewimport and viewstart to customer area.and also modify viewstart.csh
 Added admin inside area and added import and cs/html file in it also deleted controller folder and completed my assignment 2 first part.
 
 
+3 november 2023
+firstly i build the solution to check the errors . afterthat i review appsetting.json and modify the database and save it.
+
 
