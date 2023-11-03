@@ -11,3 +11,8 @@ afterthat,i register a mail in my application as shown in class and apply migrat
 
  In strtup.cs i make changes as required for assignment.afterthat , I examine other files as required for assignment and i also commint it on in main.
 now I am done with part 1 assignment 2.
+
+part-2
+(Debugging) 
+i start debugging and add breakpiont and and run my app and its is  working upto where i applu breakpoint afterthat it need continue click to do further process.
+
