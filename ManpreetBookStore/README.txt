@@ -20,3 +20,5 @@ part-3 (BootsWatch)
 part third is about bootswatch in which i download bootstrap minty format style from bootswatch.com  and then
 under wwwroot/css i change the name of the previous file and add the downloaded file inside it.
 moreover,i made changes in layout.cshtml as required according to the tutorail.
+
+Inside my loginPartial.cshtml i made changes and run my app in the browser.wow..... it's looking nice as a ux experience.
