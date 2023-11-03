@@ -48,6 +48,6 @@ afterthat i run my app to see the errors in my code.
 it shows error then i fix the error and remove using statement and correct the references as .Model.ViewModels.errorviewmodels.
 afeter fixing all the error i run my browser again and it is working ..
 
-
+in my utility folder i added a class name SD.cs.
 
 
