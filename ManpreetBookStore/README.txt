@@ -68,3 +68,5 @@ I use nugetpackage manager consoole to add migrations.then it shows error then i
 afterthat i run it again and its working.
 I ADDED add-migration AddDefaultIdentityMigrationand set defaultproject ManpreetBooks.DataAccess and its running.
 i updated my database.
+
+afterthat i review my tables........done for today...
