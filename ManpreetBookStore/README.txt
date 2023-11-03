@@ -16,3 +16,7 @@ part-2
 (Debugging) 
 i start debugging and add breakpiont and and run my app and its is  working upto where i applu breakpoint afterthat it need continue click to do further process.
 
+part-3 (BootsWatch)
+part third is about bootswatch in which i download bootstrap minty format style from bootswatch.com  and then
+under wwwroot/css i change the name of the previous file and add the downloaded file inside it.
+moreover,i made changes in layout.cshtml as required according to the tutorail.
