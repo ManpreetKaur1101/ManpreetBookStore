@@ -42,6 +42,10 @@ I added project references of .DataAccess and Models and then rename the model f
 i delete the model folder and add previous in ManpreetBooks.Model.
 
 
+In startup.cs i made changes as required by using using statement.
+afterthat i run my app to see the errors in my code.
+
+
 
 
 
