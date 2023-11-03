@@ -32,4 +32,7 @@ Moreover,I created my ManpreetBooks.DataAccess class libarary.
 also i created other two projects libraries that are ManpreetBooks.Models and ManpreetBooks.Utility.
 I droped data folder in the ManpreetBooks.DatabaseAccess and deleted the original folder.
 
+further,I Inastallted microsoft entity frameworkcore.relational and sqlserver packages.and i deleted migration folder.
+I downlod the Identity.EntityFramework core.
+
 
