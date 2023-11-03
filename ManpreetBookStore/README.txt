@@ -58,6 +58,7 @@ afterthat i edit homecontroler.cs and define controler in the customer area.
 i moveviews home and modify the homecontroller.
 
 i copied viewimport and viewstart to customer area.and also modify viewstart.cshtml.
+Added admin inside area and added import and cs/html file in it also deleted controller folder and completed my assignment 2 first part.
 
 
 
