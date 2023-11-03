@@ -45,7 +45,8 @@ i delete the model folder and add previous in ManpreetBooks.Model.
 In startup.cs i made changes as required by using using statement.
 afterthat i run my app to see the errors in my code.
 
-
+it shows error then i fix the error and remove using statement and correct the references as .Model.ViewModels.errorviewmodels.
+afeter fixing all the error i run my browser again and it is working ..
 
 
 
