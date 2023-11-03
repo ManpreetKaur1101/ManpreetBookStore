@@ -53,4 +53,6 @@ in my utility folder i added a class name SD.cs.afterthat i modify the propertie
 In dataaccess i added the references.
 Inside area i added area with name customer.and make change in routes in startup.cs.
 
+i moved hpmecontroller.cs to area>customer and folder and delete data and models.
+
 
