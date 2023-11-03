@@ -64,4 +64,4 @@ Added admin inside area and added import and cs/html file in it also deleted con
 3 november 2023
 firstly i build the solution to check the errors . afterthat i review appsetting.json and modify the database and save it.
 
-
+I use nugetpackage manager consoole to add migrations.then it shows error then i change the correct default project dataaccess and run it again..
