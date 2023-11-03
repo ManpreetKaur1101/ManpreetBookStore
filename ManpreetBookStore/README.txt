@@ -50,4 +50,6 @@ afeter fixing all the error i run my browser again and it is working ..
 
 in my utility folder i added a class name SD.cs.afterthat i modify the properties of the class.then i added project references from the main project. ManpreetBookStore.
 
+In dataaccess i added the references.
+
 
