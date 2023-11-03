@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ManpreetBooks.Utility
 {
-    class SD
+  public static class SD
     {
     }
 }

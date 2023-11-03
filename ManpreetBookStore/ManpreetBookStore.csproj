@@ -19,6 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ManpreetBooks.DataAccess\ManpreetBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ManpreetBooks.Models\ManpreetBooks.Models.csproj" />
+    <ProjectReference Include="..\ManpreetBooks.Utility\ManpreetBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
