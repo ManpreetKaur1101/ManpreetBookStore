@@ -82,3 +82,4 @@ i also added category to the applicatuiondbcontext.
 (add repository)
 I added a new folder inside dataacces with name Repository and inside that i added a new folder name IRepository.alos,under the same repository i added a new item with name IRepository.cs.
 afterthat, i modified IRepository.cs and add crud operations and using statements..
+afterthat, i used method of crud to get item from db,list of category,add objects,and remove objects....

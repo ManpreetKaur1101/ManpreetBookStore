@@ -16,5 +16,12 @@ namespace ManpreetBooks.DataAccess.Repository.IRepository
           string includeProperties = null
 
             );
+        void Add(T entity); //add entity
+
+        void Remove(int id);//to remove an object and category
+
+        void Remove(T entity); // another way to remove an object
+
+        void RemoveRange(IEnumerable<T> entity);// remove acomplete range of attributes
     }
 }
