@@ -94,3 +94,4 @@ i modify ICatgory repository interface and review it for errors and impltement C
 Moreover,i added a new interfece in IRepository Folder with name ISO_Call.cs.
 
 afterthat,i include new methods and install NuPackages for dapper and also implement this with the new class in (ISP_Call.cs) repository folder.
+I added a new class SP_cs in repository folder and i selected using statement and implement ISP_Call interface and also addede connections to the database by adding using statements.
