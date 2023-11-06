@@ -97,3 +97,5 @@ afterthat,i include new methods and install NuPackages for dapper and also imple
 I added a new class SP_cs in repository folder and i selected using statement and implement ISP_Call interface and also addede connections to the database by adding using statements.
 
 I updated the SP_call.cs as shown in tutorail..
+
+I added new interface of name IUnitOfWork and UnitOfWork and make changes as required and make changes in startup.cs..
