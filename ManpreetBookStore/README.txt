@@ -78,3 +78,7 @@ i added a new class file on Models project and also added migration add-migratio
 in the apllicationdbcontext.cs i updated using statement and ee run add migrations and resolve duplication error rerun application.
 
 i also added category to the applicatuiondbcontext.
+
+(add repository)
+I added a new folder inside dataacces with name Repository and inside that i added a new folder name IRepository.alos,under the same repository i added a new item with name IRepository.cs.
+afterthat, i modified IRepository.cs and add crud operations and using statements..
