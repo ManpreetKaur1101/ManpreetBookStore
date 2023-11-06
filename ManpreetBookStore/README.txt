@@ -103,3 +103,7 @@ I updated the SP_call.cs as shown in tutorail..
 I added new interface of name IUnitOfWork and UnitOfWork and make changes as required and make changes in startup.cs..
 
 i fix all errors and run my browser and its working....
+
+
+i added a new MVC controller empty inside area/admin and name as categorycontroller.cs and modify it.
+afterthat i add new folder in area/view and added index view folder and modify categoryindex viewtxt file and run app its working.....
