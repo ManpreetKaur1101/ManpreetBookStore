@@ -74,7 +74,7 @@ afterthat i review my tables........done for today...
 
 Date:6 november 2023
 
-i added a new class file on Models project and also added migration add-migration AddCategoryToDb  to the PM console and build succeded.
+i added a new class file category.cs on Models project and also added migration add-migration AddCategoryToDb  to the PM console and build succeded.
 in the apllicationdbcontext.cs i updated using statement and ee run add migrations and resolve duplication error rerun application.
 
 i also added category to the applicatuiondbcontext.
@@ -85,3 +85,9 @@ afterthat, i modified IRepository.cs and add crud operations and using statement
 afterthat, i used method of crud to get item from db,list of category,add objects,and remove objects....
 
 i updated my Repository.cs in my assignment......
+
+12:54 
+
+inside repository i created categoryrepository.cs and ICategoryRepository and i modify the categoryRepository.cs by using statement also 
+i modify ICatgory repository interface and review it for errors and impltement CategoryRepository.cs updated. and completed modifications..and fix the bugs  and commits to github..
+
