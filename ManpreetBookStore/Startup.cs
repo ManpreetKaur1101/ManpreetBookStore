@@ -1,3 +1,5 @@
+using ManpreetBooks.DataAccess.Repository;
+using ManpreetBooks.DataAccess.Repository.IRepository;
 using ManpreetBookStore.DataAccess;
 using ManpreetBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;

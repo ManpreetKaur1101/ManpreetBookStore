@@ -45,6 +45,8 @@ i delete the model folder and add previous in ManpreetBooks.Model.
 In startup.cs i made changes as required by using using statement.
 afterthat i run my app to see the errors in my code.
 
+
+
 it shows error then i fix the error and remove using statement and correct the references as .Model.ViewModels.errorviewmodels.
 afeter fixing all the error i run my browser again and it is working ..
 
@@ -99,3 +101,5 @@ I added a new class SP_cs in repository folder and i selected using statement an
 I updated the SP_call.cs as shown in tutorail..
 
 I added new interface of name IUnitOfWork and UnitOfWork and make changes as required and make changes in startup.cs..
+
+i fix all errors and run my browser and its working....
