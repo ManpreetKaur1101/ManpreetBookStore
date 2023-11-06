@@ -91,3 +91,5 @@ i updated my Repository.cs in my assignment......
 inside repository i created categoryrepository.cs and ICategoryRepository and i modify the categoryRepository.cs by using statement also 
 i modify ICatgory repository interface and review it for errors and impltement CategoryRepository.cs updated. and completed modifications..and fix the bugs  and commits to github..
 
+Moreover,i added a new interfece in IRepository Folder with name ISO_Call.cs.
+

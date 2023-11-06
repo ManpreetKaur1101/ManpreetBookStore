@@ -11,6 +11,7 @@ namespace ManpreetBooks.Models
     {
         [Key]
         public int id { get; set; }
+        public int Id { get; set; }
         [Display(Name ="Category Name")]
         [Required]
         [MaxLength(50)]
