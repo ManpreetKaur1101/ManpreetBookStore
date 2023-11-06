@@ -16,6 +16,13 @@ namespace ManpreetBooks.DataAccess.Repository.IRepository
           string includeProperties = null
 
             );
+
+        T GetFirstOrDefault(
+           Expression<Func<T, bool>> filter = null,
+          Func<IQueryable<T>, IOrderedQueryable<T>> odereBy = null,
+          string includeProperties = null
+
+            );
         void Add(T entity); //add entity
 
         void Remove(int id);//to remove an object and category
