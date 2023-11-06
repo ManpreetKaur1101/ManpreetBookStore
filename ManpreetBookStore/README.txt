@@ -61,7 +61,7 @@ i copied viewimport and viewstart to customer area.and also modify viewstart.csh
 Added admin inside area and added import and cs/html file in it also deleted controller folder and completed my assignment 2 first part.
 
 
-3 november 2023
+3 november 2023 (Assignment2-part2)
 firstly i build the solution to check the errors . afterthat i review appsetting.json and modify the database and save it.
 
 I use nugetpackage manager consoole to add migrations.then it shows error then i change the correct default project dataaccess and run it again..
@@ -69,4 +69,12 @@ afterthat i run it again and its working.
 I ADDED add-migration AddDefaultIdentityMigrationand set defaultproject ManpreetBooks.DataAccess and its running.
 i updated my database.
 
+
 afterthat i review my tables........done for today...
+
+Date:6 november 2023
+
+i added a new class file on Models project and also added migration add-migration AddCategoryToDb  to the PM console and build succeded.
+in the apllicationdbcontext.cs i updated using statement and ee run add migrations and resolve duplication error rerun application.
+
+i also added category to the applicatuiondbcontext.
