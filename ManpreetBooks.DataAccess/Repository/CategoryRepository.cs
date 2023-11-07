@@ -24,7 +24,7 @@ namespace ManpreetBooks.DataAccess.Repository
 
             {
                 objFromDb.Name = category.Name;
-                _db.SaveChanges();
+         
             }
             throw new System.NotImplementedException();
         }

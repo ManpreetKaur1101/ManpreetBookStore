@@ -115,4 +115,5 @@ afterthat,inside shared i added partial view for Create and add black to list bu
 then i add another _EditAndBLackToListButton and modify model statement.
 
 when i run my app it shows error now i am trying to fix them.
+i have an error in my upsert.cshtml i fix that and run my app..
 
