@@ -118,4 +118,6 @@ when i run my app it shows error now i am trying to fix them.
 i have an error in my upsert.cshtml i fix that and run my app..
   moreover,i added code in index.cshtml..
   then i also modify my categorycontroller.cs and update further code.
-  also updated category.js. also futher changes as required and run the app.
+  also updated category.js. also futher changes as required and run the app.done for today..
+
+
