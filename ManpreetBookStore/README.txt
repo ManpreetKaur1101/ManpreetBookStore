@@ -112,3 +112,7 @@ i modified index.cshtml to add icons in the category section . afterthat i delet
 
 i make changes in categorycontroller.cs and also add upsert.cshtml ..
 afterthat,inside shared i added partial view for Create and add black to list button.cshtml and add the asp-action.
+then i add another _EditAndBLackToListButton and modify model statement.
+
+when i run my app it shows error now i am trying to fix them.
+

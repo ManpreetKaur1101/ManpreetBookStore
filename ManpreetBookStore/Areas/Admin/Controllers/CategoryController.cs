@@ -33,9 +33,10 @@ namespace ManpreetBookStore.Areas.Admin.Controllers
             {
             return NotFound();
                 }
-            return View();
+            return View(category);
         }
 
+    
         // API calls here
         #region API CALLS
         [HttpGet]
