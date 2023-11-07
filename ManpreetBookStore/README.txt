@@ -111,3 +111,4 @@ moreover, in layout.cshtml moved category link to content manager drop down and 
 i modified index.cshtml to add icons in the category section . afterthat i delete the code from it and in js file i added provided code and run the browser....
 
 i make changes in categorycontroller.cs and also add upsert.cshtml ..
+afterthat,inside shared i added partial view for Create and add black to list button.cshtml and add the asp-action.
