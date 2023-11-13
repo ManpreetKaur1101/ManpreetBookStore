@@ -30,7 +30,7 @@ namespace ManpreetBooks.DataAccess.Repository
 
         public void Save()
         {
-            _db.SaveChanges();
+            
         }
 
     }

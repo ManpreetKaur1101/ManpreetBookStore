@@ -121,3 +121,6 @@ i have an error in my upsert.cshtml i fix that and run my app..
   also updated category.js. also futher changes as required and run the app.done for today..
 
 
+  NOVEMBER13,2023
+  12:26 P.M
+  my browser is running well as expected.
