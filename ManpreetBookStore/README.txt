@@ -76,7 +76,7 @@ afterthat i review my tables........done for today...
 
 Date:6 november 2023
 
-i added a new class file category.cs on Models project and also added migration add-migration AddCategoryToDb  to the PM console and build succeded.
+i added a new class file category.cs on Models project and also added migration add-migration 20231106164005 AddCategoryToDb  to the PM console and build succeded.
 in the apllicationdbcontext.cs i updated using statement and ee run add migrations and resolve duplication error rerun application.
 
 i also added category to the applicatuiondbcontext.
