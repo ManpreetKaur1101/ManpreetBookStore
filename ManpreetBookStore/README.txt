@@ -132,3 +132,5 @@ i have an error in my upsert.cshtml i fix that and run my app..
   Firstly i create a class CoverType.cs inside Models folder.
   Then i make new class and add interface under repository.then i add code to ApplicationDbcontext.cs.
   after that i added migration ( 20231117214956_AddCoverTypeToDB.cs).
+
+  Then i added Icovertyperepository and covertyperepository.
