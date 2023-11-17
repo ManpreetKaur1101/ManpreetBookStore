@@ -17,11 +17,15 @@ namespace ManpreetBooks.DataAccess.Repository
         {
             _db = db;
             Category = new CategoryRepository(_db);
+            CoverType = new CoverTypeRepository(_db);
             SP_Call = new SP_Call(_db);
         }
          public ICategoryRepository Category { get; private set; }
 
         public ISP_Call SP_Call { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
+
+        ICategoryRepository IUnitOfWork.CoverType => throw new NotImplementedException();
 
         public void Dispose()
         {
