@@ -11,8 +11,8 @@ namespace ManpreetBooks.Models
     {
 
         [Key]
-        public int id { get; set; }
-        public int Id { get; set; }
+       
+        public int id{ get; set; }
         [Display(Name = "CoverType Name")]
         [Required]
         [MaxLength(50)]

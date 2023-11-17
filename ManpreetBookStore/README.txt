@@ -134,3 +134,4 @@ i have an error in my upsert.cshtml i fix that and run my app..
   after that i added migration ( 20231117214956_AddCoverTypeToDB.cs).
 
   Then i added Icovertyperepository and covertyperepository.
+  moreover I updated the code and fix my error run the browser.

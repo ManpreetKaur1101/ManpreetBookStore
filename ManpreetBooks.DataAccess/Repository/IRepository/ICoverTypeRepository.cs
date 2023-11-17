@@ -12,4 +12,5 @@ namespace ManpreetBooks.DataAccess.Repository.IRepository
     {
         void Update(CoverType coverType);
     }
+
 }

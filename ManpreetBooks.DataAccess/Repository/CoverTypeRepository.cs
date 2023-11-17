@@ -16,5 +16,17 @@ namespace ManpreetBooks.DataAccess.Repository
         {
             _db = db;
         }
+        public void Update(CoverType covertype)
+        {
+
+            var objFromDb = _db.CoverType.FirstOrDefault(s => s.id == covertype.id);
+            if (objFromDb != null)
+
+            {
+                objFromDb.Name = covertype.Name;
+
+            }
+            throw new System.NotImplementedException();
+        }
     }
 }
