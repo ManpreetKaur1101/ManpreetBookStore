@@ -124,3 +124,11 @@ i have an error in my upsert.cshtml i fix that and run my app..
   NOVEMBER13,2023
   12:26 P.M
   my browser is running well as expected.
+
+  November 17, 2023
+  Assignment2 - Part3
+
+  i started my third part of assignment 2.
+  Firstly i create a class CoverType.cs inside Models folder.
+  Then i make new class and add interface under repository.then i add code to ApplicationDbcontext.cs.
+  after that i added migration ( 20231117214956_AddCoverTypeToDB.cs).

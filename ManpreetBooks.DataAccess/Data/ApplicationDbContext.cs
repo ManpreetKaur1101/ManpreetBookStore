@@ -15,5 +15,7 @@ namespace ManpreetBookStore.DataAccess.Data
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Category> CoverType { get; set; }
+
+
     }
 }
