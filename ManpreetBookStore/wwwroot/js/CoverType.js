@@ -24,7 +24,7 @@ function loadDataTable() {
                                     <i class="fas fa-trash-alt"></i>&nbsp;
                                 </a>
                             </div>
-                            `;
+                           
                 }, "width": "40%"
             }
         ]
