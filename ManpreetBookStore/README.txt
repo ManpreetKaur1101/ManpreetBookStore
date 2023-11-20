@@ -137,3 +137,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
   moreover I updated the code and fix my error run the browser.
 
   Then i added code to unitofWork .
+  
+  November 20, 2023
+  i added a new folder inside controllers with name covertypecontroller.cs and also i made changes in the layout.cshtml that is inside views/shared .
+  afterthat it shows error when i run my app then i fix that issue the error was in my migrations so add migrations agarin after required changes and run it again.

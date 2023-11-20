@@ -25,7 +25,7 @@ namespace ManpreetBooks.DataAccess.Repository
         public ISP_Call SP_Call { get; private set; }
         public ICoverTypeRepository CoverType { get; private set; }
 
-        ICategoryRepository IUnitOfWork.CoverType => throw new NotImplementedException();
+ 
 
         public void Dispose()
         {

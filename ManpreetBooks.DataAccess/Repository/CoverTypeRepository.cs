@@ -19,7 +19,7 @@ namespace ManpreetBooks.DataAccess.Repository
         public void Update(CoverType covertype)
         {
 
-            var objFromDb = _db.CoverType.FirstOrDefault(s => s.id == covertype.id);
+            var objFromDb = _db.CoverTypes.FirstOrDefault(s => s.id == covertype.id);
             if (objFromDb != null)
 
             {
