@@ -149,6 +149,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
 
   3.58p.m
   I added a new product.cs class in the models folder and update code.
+  afterthat i give reference to the product inside ApplicationDbcontext.cs.
   
 
 
