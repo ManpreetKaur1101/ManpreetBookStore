@@ -69,15 +69,6 @@ namespace ManpreetBookStore.Areas.Admin.Controllers
             return Json(new { data = allObj });
         }
 
-        [HttpGet]
-
-        public IActionResult GetALL()
-        {
-            var allObj = _unitOfWork.Category.GetAll();
-            return Json(new { data = allObj });
-        }
-
-
         [HttpDelete]
 
         public IActionResult Delete(int id)

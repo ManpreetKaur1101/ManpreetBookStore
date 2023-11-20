@@ -159,4 +159,6 @@ i have an error in my upsert.cshtml i fix that and run my app..
   afterthat,i added a productcontroler.cs inside areas>admin then I iwEBhOSTeNVIROMENT AND USING STATEMENTS.
 
 
-additionally,i created a modelproject name ProjectVM.cs in the viewmodel and modify andinstall microsoft.aspnetcore.mvcviewfeatures of 202 version.
+additionally,i created a modelproject name ProjectVM.cs in the viewmodel and modify andinstall microsoft.aspnetcore.mvcviewfeatures .
+
+I modify the code in productcontroller.
