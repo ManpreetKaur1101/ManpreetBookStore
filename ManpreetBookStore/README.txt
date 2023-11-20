@@ -125,7 +125,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
   12:26 P.M
   my browser is running well as expected.
 
-  November 17, 2023
+  November 17, 2023 (PART -3)
   Assignment2 - Part3
 
   i started my third part of assignment 2.
@@ -157,3 +157,6 @@ i have an error in my upsert.cshtml i fix that and run my app..
   I added new interfarence class of productRepository and Iproductrepository and make changes in unitofwork and Iunitofwork.
 
   afterthat,i added a productcontroler.cs inside areas>admin then I iwEBhOSTeNVIROMENT AND USING STATEMENTS.
+
+
+additionally,i created a modelproject name ProjectVM.cs in the viewmodel and modify andinstall microsoft.aspnetcore.mvcviewfeatures of 202 version.
