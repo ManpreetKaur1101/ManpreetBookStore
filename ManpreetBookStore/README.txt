@@ -151,6 +151,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
   I added a new product.cs class in the models folder and update code.
   afterthat i give reference to the product inside ApplicationDbcontext.cs.
   
+  moreover i added migration 20231120213027_AddProductToDb.cs and update database.
 
 
 
