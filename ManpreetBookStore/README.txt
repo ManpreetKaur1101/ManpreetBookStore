@@ -162,3 +162,4 @@ i have an error in my upsert.cshtml i fix that and run my app..
 additionally,i created a modelproject name ProjectVM.cs in the viewmodel and modify andinstall microsoft.aspnetcore.mvcviewfeatures .
 
 I modify the code in productcontroller.
+then i comment out the upsert post method.
