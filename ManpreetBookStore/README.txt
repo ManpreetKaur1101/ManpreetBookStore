@@ -154,4 +154,5 @@ i have an error in my upsert.cshtml i fix that and run my app..
   moreover i added migration 20231120213027_AddProductToDb.cs and update database.
   afterthat i added validation and updatedatabase.
 
+  I added new interfarence class of productRepository and Iproductrepository and make changes in unitofwork and Iunitofwork.
 

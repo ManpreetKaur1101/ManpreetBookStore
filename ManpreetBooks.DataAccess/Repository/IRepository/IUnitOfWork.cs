@@ -11,6 +11,8 @@ namespace ManpreetBooks.DataAccess.Repository.IRepository
         ICategoryRepository Category { get; }
         ICoverTypeRepository CoverType { get; }
 
+        IProductRepository Product { get; }
+
         ISP_Call SP_Call { get; }
 
         void Save();
