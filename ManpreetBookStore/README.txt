@@ -131,7 +131,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
   i started my third part of assignment 2.
   Firstly i create a class CoverType.cs inside Models folder.
   Then i make new class and add interface under repository.then i add code to ApplicationDbcontext.cs.
-  after that i added migration ( 20231117214956_AddCoverTypeToDB.cs).
+  after that i added migration ( 20231120181657_AddCoverTypeToDB.cs).
 
   Then i added Icovertyperepository and covertyperepository.
   moreover I updated the code and fix my error run the browser.
@@ -141,3 +141,6 @@ i have an error in my upsert.cshtml i fix that and run my app..
   November 20, 2023
   i added a new folder inside controllers with name covertypecontroller.cs and also i made changes in the layout.cshtml that is inside views/shared .
   afterthat it shows error when i run my app then i fix that issue the error was in my migrations so add migrations agarin after required changes and run it again.
+
+  inside covertype i added index.cshtml and update changes.
+
