@@ -156,3 +156,4 @@ i have an error in my upsert.cshtml i fix that and run my app..
 
   I added new interfarence class of productRepository and Iproductrepository and make changes in unitofwork and Iunitofwork.
 
+  afterthat,i added a productcontroler.cs inside areas>admin then I iwEBhOSTeNVIROMENT AND USING STATEMENTS.
