@@ -143,4 +143,5 @@ i have an error in my upsert.cshtml i fix that and run my app..
   afterthat it shows error when i run my app then i fix that issue the error was in my migrations so add migrations agarin after required changes and run it again.
 
   inside covertype i added index.cshtml and update changes.
+  Moreover,inside wwwroot i added a new class with name covertype.js and update changes that are required.
 
