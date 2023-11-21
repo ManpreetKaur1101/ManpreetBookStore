@@ -165,4 +165,9 @@ I modify the code in productcontroller.
 then i comment out the upsert post method.
 
 I modify API and then added index in view folder and modify the code.
-than i added a new producrt.js file inside wwwroot and update layout and run the browser.
+than i added a new product.js file inside wwwroot and update layout and run the browser.
+
+(part-3)
+I create an upsert.cs for product in areas/admin/views and added the given code.
+then i created a tiny account and usin function api and add function to validate and create a new product.
+
