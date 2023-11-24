@@ -175,3 +175,5 @@ date- november24,2023 11:49 a.m
 ( part -4)
 I added a new folder with name images inside wwwroot then i added a products folder in images.
 
+(12.01 P.M)
+i updated my cover type controller.cs and also change sd.cs
