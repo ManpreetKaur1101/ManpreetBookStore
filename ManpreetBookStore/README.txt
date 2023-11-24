@@ -171,3 +171,7 @@ than i added a new product.js file inside wwwroot and update layout and run the 
 I create an upsert.cs for product in areas/admin/views and added the given code.
 then i created a tiny account and usin function api and add function to validate and create a new product.
 
+date- november24,2023 11:49 a.m 
+( part -4)
+I added a new folder with name images inside wwwroot then i added a products folder in images.
+
