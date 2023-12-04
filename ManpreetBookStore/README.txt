@@ -88,7 +88,7 @@ afterthat, i used method of crud to get item from db,list of category,add object
 
 i updated my Repository.cs in my assignment......
 
-12:54 
+(12:54 p.m):6 november 2023
 
 inside repository i created categoryrepository.cs and ICategoryRepository and i modify the categoryRepository.cs by using statement also 
 i modify ICatgory repository interface and review it for errors and impltement CategoryRepository.cs updated. and completed modifications..and fix the bugs  and commits to github..
@@ -121,8 +121,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
   also updated category.js. also futher changes as required and run the app.done for today..
 
 
-  NOVEMBER13,2023
-  12:26 P.M
+  NOVEMBER13,2023 (12:26 P.M)
   my browser is running well as expected.
 
   November 17, 2023 (PART -3)
@@ -147,7 +146,7 @@ i have an error in my upsert.cshtml i fix that and run my app..
 
   i added new  upsert under covertype and update it with previous upsert code .
 
-  3.58p.m
+ ( 3.58p.m) November 20, 2023
   I added a new product.cs class in the models folder and update code.
   afterthat i give reference to the product inside ApplicationDbcontext.cs.
   
@@ -175,7 +174,7 @@ date- november24,2023 11:49 a.m
 ( part -4)
 I added a new folder with name images inside wwwroot then i added a products folder in images.
 
-(12.01 P.M)
+(12.01 P.M)november24,2023
 i updated my cover type controller.cs and also change sd.cs
 
 Date-Dec4,2023 (11.57 a.m)
@@ -186,4 +185,7 @@ afterthat i change homecontroller.cs inside customer folder and save changes.
 
 Date-Dec4,2023 (12.29 p.m)
 i made changes in productrepository.cs.
+
+Date-Dec4,2023 (12.41 p.m)
+i fix my errors and now my category page is working
 
