@@ -177,3 +177,7 @@ I added a new folder with name images inside wwwroot then i added a products fol
 
 (12.01 P.M)
 i updated my cover type controller.cs and also change sd.cs
+
+Date-Dec4,2023 (11.57 a.m)
+i updated the code of  upsert.cshtml inside category.
+
