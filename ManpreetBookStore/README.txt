@@ -181,3 +181,6 @@ i updated my cover type controller.cs and also change sd.cs
 Date-Dec4,2023 (11.57 a.m)
 i updated the code of  upsert.cshtml inside category.
 
+Date-Dec4,2023 (12.13 p.m)
+afterthat i change homecontroller.cs inside customer folder and save changes.
+
