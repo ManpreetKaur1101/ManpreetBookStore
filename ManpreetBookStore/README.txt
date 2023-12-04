@@ -187,5 +187,9 @@ Date-Dec4,2023 (12.29 p.m)
 i made changes in productrepository.cs.
 
 Date-Dec4,2023 (12.41 p.m)
-i fix my errors and now my category page is working
+i fix my errors and now my category page is working.
+
+Date-Dec4,2023 (1.12 p.m)
+i am trying to fix my  errors.
+
 
