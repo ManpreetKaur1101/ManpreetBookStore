@@ -19,7 +19,7 @@ namespace ManpreetBooks.DataAccess.Repository
         public void Update(Category category)
         {
 
-            var objFromDb = _db.Categories.FirstOrDefault(s => s.id == category.Id);
+            var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
             if(objFromDb != null)
 
             {

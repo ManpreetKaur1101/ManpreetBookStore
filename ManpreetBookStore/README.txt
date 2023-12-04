@@ -184,3 +184,6 @@ i updated the code of  upsert.cshtml inside category.
 Date-Dec4,2023 (12.13 p.m)
 afterthat i change homecontroller.cs inside customer folder and save changes.
 
+Date-Dec4,2023 (12.29 p.m)
+i made changes in productrepository.cs.
+
